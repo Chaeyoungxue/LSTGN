@@ -1,5 +1,5 @@
 # LSTGN
-LSTAN: Lightweight Spatio-Temporal Attention Network for Real-Time Video Anomaly Detection
+LSTGN: Lightweight Spatio-Temporal Gated Network for Real-Time Video Anomaly Detection
 
 ### Pretrained models available in the saved_models folder
 
